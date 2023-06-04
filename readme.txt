@@ -1,1 +1,3 @@
-myfile
+This repository is just for my git practice....
+This will also contain all my notes for linux command line tools
+:) squeaky pork
